@@ -1,4 +1,4 @@
-# Biostatistics
+# Biostatistics For Public Health
 
 Here's the R markdown for analyzing dataset the relationship between smoking mothers and babies health conditions
 
