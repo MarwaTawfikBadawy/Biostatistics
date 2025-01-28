@@ -1,9 +1,6 @@
 # Biostatistics
 
-title: "R Practical Exam 8"
-author: "Marwa Tawfik Badawy"
-date: "5/13/2019"
-output: html_document
+Here's the R markdown for analyzing dataset the relationship between smoking mothers and babies health conditions
 ---
 
 ```{r}
