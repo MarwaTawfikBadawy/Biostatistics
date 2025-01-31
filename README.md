@@ -28,6 +28,9 @@ head(Babies)
   geom_boxplot(aes(x = smoke, y = weight))
 ```
 
+![Fig1](https://github.com/user-attachments/assets/86e3c0c1-9076-455e-953a-450bdc437b10)
+
+
 **Mom’s smoking and baby’s weight with reordered x-axis**
 ```{r}
  ggplot(Babies) +
