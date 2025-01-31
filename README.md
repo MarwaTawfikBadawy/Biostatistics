@@ -37,6 +37,9 @@ head(Babies)
   geom_boxplot(aes(x = reorder(smoke, weight, FUN = median), y = weight))
 ```
 
+![Fig2](https://github.com/user-attachments/assets/661e3fda-9bdc-4235-beee-10a6587ca384)
+
+
 **Mom’s race and baby’s weight**
 
 ```{r}
