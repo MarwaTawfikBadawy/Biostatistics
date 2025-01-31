@@ -54,7 +54,7 @@ head(Babies)
   geom_boxplot(aes(x = reorder(dad.race, weight, FUN = median), y = weight))
 ```
 
-The box length gives an indication of the sample variability and the line across the box shows where the sample is centred. The position of the box in its whiskers and the position of the line in the box also tells us whether the sample is symmetric or skewed, either to the right or left. <br>
+The box length gives an indication of the sample variability and the line across the box shows where the sample is centred. The position of the box in its whiskers and the position of the line in the box also tells us whether the sample is symmetric or skewed, either to the right or left.
 
 **Mom’s race and baby’s weight and dad’s race**
 ```{r}
