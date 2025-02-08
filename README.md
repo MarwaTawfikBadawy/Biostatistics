@@ -1,6 +1,5 @@
 # Biostatistics For Public Health Course
-This course provides a foundational understanding 
-
+This course provides a foundational understanding of biostatistical methods and their applications in public health and medical research. It covers key statistical concepts, data analysis techniques, and interpretation of results to 
 
 
 Here's the R markdown for analyzing the dataset that represents the relationship between smoking mothers and babies health conditions.
