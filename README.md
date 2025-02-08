@@ -1,4 +1,7 @@
 # Biostatistics For Public Health Course
+This course provides a foundational understanding 
+
+
 
 Here's the R markdown for analyzing the dataset that represents the relationship between smoking mothers and babies health conditions.
 
