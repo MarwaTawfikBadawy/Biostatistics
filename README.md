@@ -1,4 +1,4 @@
-# Biostatistics For Public Health Course
+# Biostatistics For Public Health - Course
 This course provided a foundational understanding of biostatistical methods and their applications in public health and medical research. 
 It covered key statistical concepts, data analysis techniques, and interpretation of results to support evidence-based decision-making in healthcare, with a focus on Statstical analyses using RStudio.
 
