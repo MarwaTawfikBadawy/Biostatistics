@@ -1,4 +1,4 @@
-# Biostatistics For Public Health - Cour
+# Biostatistics For Public Health - C
 This course provided a foundational understanding of biostatistical methods and their applications in public health and medical research. It covered key statistical concepts, data analysis techniques, and interpretation of results to support evidence-based decision-making in healthcare, with a focus on Statstical analyses using RStudio.
 
 Here's the R markdown for analyzing the dataset that represents the relationship between smoking mothers and babies health conditions.
