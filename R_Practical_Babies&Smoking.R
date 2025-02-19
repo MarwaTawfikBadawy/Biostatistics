@@ -19,7 +19,6 @@ Let’s take a glimpse of the dataset
 glimpse(Babies)
 ```
 
-
 The first a few rows of the dataset
 ```{r}
 head(Babies)
