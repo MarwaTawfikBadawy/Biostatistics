@@ -9,7 +9,6 @@ output: html_document
 library(tidyverse) 
 ```
 
-
 Download the Babies dataset (Babies.rda) from the following link https://goo.gl/7NrADr (or from Black- board)
 
 ```{r}
