@@ -4,7 +4,6 @@ This course provided a foundational understanding of biostatistical methods and 
 
 Here's the R markdown for analyzing the dataset that represents the relationship between smoking mothers and babies health conditions.
 
-
 ---
 
 ```{r}
