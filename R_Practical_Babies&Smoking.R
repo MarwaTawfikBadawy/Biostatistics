@@ -5,11 +5,12 @@ date: "5/13/2019"
 output: html_document
 ---
 
+
 ```{r}
 library(tidyverse) 
 ```
 
-Download the Babies dataset (Babies.rda) from the following link https://goo.gl/7NrADr (or from Black- board)
+Download the Babies dataset (Babies.rda) from the following link https://goo.gl/NrADr (or from Black- board)
 
 ```{r}
 load("Babies.rda")
